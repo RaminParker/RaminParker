@@ -23,7 +23,7 @@
     ┣━━ 💥 [TeamBank](https://www.teambank.de/)
     ┃   ┣━━ Working on Data Science projects like chatbot, web scraping and classifications
     ┗━━ 🤖 [Max Planck Institut](https://mpl.mpg.de/de/)
-    ┃   ┣━━ Ph.D at the Russell-Devision on the topic of twisted Photonic Crystal Fibres
+        ┣━━ Ph.D at the Russell-Devision on the topic of twisted Photonic Crystal Fibres
   
 
 
